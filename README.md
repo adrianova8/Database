@@ -47,7 +47,7 @@ Table of establishments
 ## Exercise 3
  - Use the MySQL Workbench to create a relational model.
 
-
+---
 
 # Sprint 14 T02: MySQL Database
 
